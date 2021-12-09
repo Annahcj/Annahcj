@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm currently learning JavaScript algorithms and design patterns.
+### I'm currently learning JavaScript algorithms and design patterns.
 
-Science is what we understand well enough to explain to a computer. Art is everything else we do. - Donald Knuth
+> Science is what we understand well enough to explain to a computer. Art is everything else we do. - Donald Knuth
