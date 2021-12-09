@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm currently learning JavaScript algorithms and design patterns.
+
+## Science is what we understand well enough to explain to a computer. Art is everything else we do. - Donald Knuth
