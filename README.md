@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently learning JavaScript algorithms and design patterns.
+I'm currently learning JavaScript algorithms and data Structures and design patterns.
 
 > Science is what we understand well enough to explain to a computer. Art is everything else we do.    
 > Instead of imagining that our main task is to instruct a computer what to do,  
