@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm learning Full Stack JS web development and 
-emotional intelligence curriculum at Enspiral Dev Academy Bootcamp. 
+I'm learning Full Stack JS development and emotional intelligence curriculum 
+at Enspiral Dev Academy Bootcamp. 
 
 > Science is what we understand well enough to explain to a computer. Art is everything else we do.    
 > Instead of imagining that our main task is to instruct a computer what to do,  
