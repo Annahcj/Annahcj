@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm learning Full Stack JS development and emotional intelligence curriculum 
-at Enspiral Dev Academy Bootcamp. 
+My "native" programming language is JavaScript. I've used it in the front-end with React and Redux, in the back-end for APIs with Node and Express, and for testing automation using Jest and Nock. For the persistence layer, I have used Knex.js to work with databases. 
 
 > Science is what we understand well enough to explain to a computer. Art is everything else we do.    
 > Instead of imagining that our main task is to instruct a computer what to do,  
