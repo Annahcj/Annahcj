@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My "native" programming language is JavaScript. I've used it in the front-end with React and Redux, in the back-end for APIs with Node and Express, and for automated testing using Jest and Nock. For the persistence layer, I have used Knex.js to work with databases. 
+I'm Anna. I work as a full-stack software engineer. I work in a JavaScript environment on cloud-based SaaS software
+with a modern JS stack - React, NodeJS, GraphQL, TypeScript, MongoDB, AWS, and more. In my spare time after work, I do
+algorithms in JavaScript below. I hope this helps your problem-solving skills and software development journey!
 
 > Science is what we understand well enough to explain to a computer. Art is everything else we do.    
 > Instead of imagining that our main task is to instruct a computer what to do,  
