@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Anna, I work as a full-stack software engineer. I work in a TypeScript environment on cloud-based SaaS software
-with a modern TS stack - React, NodeJS, GraphQL, TypeScript, MongoDB, AWS, and more. In my spare time, I do
-algorithms in JavaScript (repository below). I hope this helps your problem-solving skills and software development journey 🌱
+I'm Anna, and I work as a full-stack software engineer, specialising in a React and TypeScript ecosystem with Node.js for SaaS applications. 
+In my spare time, I do programming puzzles in JS. I hope this helps your problem-solving skills and software development journey 🌱
 > Science is what we understand well enough to explain to a computer. Art is everything else we do.    
 > Instead of imagining that our main task is to instruct a computer what to do,  
 > let us concentrate rather on explaining to human beings what we want a computer to do - Donald Knuth.
